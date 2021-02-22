@@ -25,3 +25,5 @@ text = input()
 ![](https://miro.medium.com/max/966/1*KoGFSzHVSnX2bbLxR_oIvA.png)
 
 *МАма*
+
+**Мама**
