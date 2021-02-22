@@ -20,4 +20,4 @@ text = input()
 - sdf
 
 
-[ма][https://www.youtube.com/channel/UC-PZfuG0HYmvxwhIiW7qOWQ]
+[ма](https://www.youtube.com/channel/UC-PZfuG0HYmvxwhIiW7qOWQ)
