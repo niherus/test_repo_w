@@ -23,3 +23,5 @@ text = input()
 [ма](https://www.youtube.com/channel/UC-PZfuG0HYmvxwhIiW7qOWQ)
 
 ![](https://miro.medium.com/max/966/1*KoGFSzHVSnX2bbLxR_oIvA.png)
+
+*МАма*
